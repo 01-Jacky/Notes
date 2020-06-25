@@ -1,7 +1,12 @@
 Topics to chase down
 
 # Python 
-##Frameworks
+
+# Python language and standard library
+* Concurrency https://docs.python.org/3.4/library/concurrent.futures.html
+  * ThreadPoolExecutor
+
+## Frameworks
 * Flask
 * Django
 
