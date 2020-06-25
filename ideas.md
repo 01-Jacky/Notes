@@ -5,7 +5,7 @@ Topics to chase down
 * Flask
 * Django
 
-## Testing
+## Python Testing
 * Mocks
 * pytest mocker/patch
 * Tox
@@ -15,3 +15,10 @@ Topics to chase down
 * tox in CI
 * pre-commit
 
+## System Design 
+
+
+## Design Patterns
+
+
+## API Design
